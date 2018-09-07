@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_master_detail_flow">MasterDetailFlow</string>
+
+    <string name="nutella">Nutella Pie</string>
+    <string name="brownies">Brownies</string>
+    <string name="cheesecake">Cheesecake</string>
+    <string name="yellowcake">Yellow Cake</string>
+    <string name="duplicate"> has already been added to your favorites!</string>
+    <string name="favorite">Added to your favorites</string>
+    <string name="landscape">landscape</string>
+    <string name="portrait">portrait</string>
+    <string name="would">Would you want to remove </string>
+    <string name="from"> from your favorites</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="yes">Yes</string>
+    <string name="deleted">Deleted</string>
+    <string name="no">No</string>
+    <string name="not_available">"Video not available for this step "</string>
+</resources>

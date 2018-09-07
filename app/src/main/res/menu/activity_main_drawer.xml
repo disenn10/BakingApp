@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_nutella"
+            android:icon="@drawable/ic_local_cafe_black_18dp"
+            android:title="Nutella Pie" />
+        <item
+            android:id="@+id/nav_brownies"
+            android:icon="@drawable/ic_local_cafe_black_18dp"
+            android:title="Brownies" />
+        <item
+            android:id="@+id/nav_yellowCaked"
+            android:icon="@drawable/ic_local_cafe_black_18dp"
+            android:title="Yellow Cake" />
+        <item
+            android:id="@+id/nav_cheesecake"
+            android:icon="@drawable/ic_local_cafe_black_18dp"
+            android:title="Cheesecake" />
+    </group>
+
+</menu>
